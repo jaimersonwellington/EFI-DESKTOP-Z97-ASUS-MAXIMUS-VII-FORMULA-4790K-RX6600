@@ -1,4 +1,4 @@
-# Asus Maximus VII Formula + Intel i7 4790K + RX 6600 ASUS Radeon RX 6600 Dual V3 8 GB + BCM4352HBM
+# Asus Maximus VII Formula + Intel i7 4790K + ASUS Radeon RX 6600 Dual V3 8 GB + BCM4352HBM
 
 ![about-12 3 1](https://github.com/jaimersonwellington/EFI-DESKTOP-Z97-ASUS-MAXIMUS-VII-FORMULA-4790K-RX6600/blob/main/Screenshots/Screenshot%202026-03-14%20at%2017.44.29.png)
 
